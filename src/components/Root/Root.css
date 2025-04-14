@@ -1,0 +1,7 @@
+.root-main{
+    display: flex;
+}
+
+nav a.active {
+    color: red;
+  }
